@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="12" failures="0" errors="0" time="0.36">
+  <testsuite name=")" errors="0" failures="0" skipped="0" timestamp="2023-07-15T15:53:15" time="0.296" tests="12">
+    <testcase classname=") handles no rows" name=") handles no rows" time="0.003">
+    </testcase>
+    <testcase classname=") handles no columns" name=") handles no columns" time="0.001">
+    </testcase>
+    <testcase classname=") handles no mines" name=") handles no mines" time="0.001">
+    </testcase>
+    <testcase classname=") handles minefield with only mines" name=") handles minefield with only mines" time="0.001">
+    </testcase>
+    <testcase classname=") handles mine surrounded by spaces" name=") handles mine surrounded by spaces" time="0.001">
+    </testcase>
+    <testcase classname=") handles space surrounded by mines" name=") handles space surrounded by mines" time="0.001">
+    </testcase>
+    <testcase classname=") handles horizontal line" name=") handles horizontal line" time="0.001">
+    </testcase>
+    <testcase classname=") handles horizontal line, mines at edges" name=") handles horizontal line, mines at edges" time="0.001">
+    </testcase>
+    <testcase classname=") handles vertical line" name=") handles vertical line" time="0.001">
+    </testcase>
+    <testcase classname=") handles vertical line, mines at edges" name=") handles vertical line, mines at edges" time="0.001">
+    </testcase>
+    <testcase classname=") handles cross" name=") handles cross" time="0">
+    </testcase>
+    <testcase classname=") handles large minefield" name=") handles large minefield" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
